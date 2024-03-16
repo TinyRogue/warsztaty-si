@@ -26,6 +26,9 @@ Stworzenie modelu sztucznej inteligencji, który lokalizuje i oznacza fragment z
 1. Automatyzacja i redukcja kosztów procesu wykrywania uszkodzonych odcinków drogowych.
 2. Poprawa bezpieczeństwa na drodze.
 
+### Metryki
+Wydajność modelu będzie mierzona na podstawie "Intersection over Union"
+
 ## Technologie
 * Python
 * Keras / PyTorch
